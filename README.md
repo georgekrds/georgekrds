@@ -33,4 +33,6 @@ I have a keen interest in **mapping and spatial data analysis**, exploring how *
 
 ## 🌎 **Connect With Me**  
 🔗 [LinkedIn](https://linkedin.com/in/georgekarydis)
+🔗 [Orcid](https://orcid.org/0009-0007-7380-6506)
+🔗 [Google Dev](https://developers.google.com/profile/u/georgekarudis)
 📩 Email: gkaridis0@gmail.com  
